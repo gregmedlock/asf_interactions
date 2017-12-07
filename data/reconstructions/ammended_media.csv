@@ -1,83 +1,83 @@
 ,concentrations,minflux,maxflux,name,source,reason,molar_mass,mass_per_liter,mass_per_liter_upper_bound,concentration,estimated_uptake
-cpd00001,0.001,-100,100,H2O,water,,,,,inf,1000.0
-cpd00009,0.001,-100,100,Phosphate,mineral,,,,,,5.0
-cpd00018,0.001,-100,100,AMP,yeast extract,,346.0,,7.5,,0.5
-cpd00023,0.001,-100,100,L-Glutamate,tryptone,,146.0,0.75,15.0,109.5,5.0
-cpd00027,0.001,-100,100,D-Glucose,yeast extract,"Glucose was not supplemented, assume trace from yeast extract",180.0,,7.5,,0.5
-cpd00028,0.001,-100,100,Heme,hemin,Hemin is just heme with a Cl- bound to the Fe core of heme.,614.0,0.5,0.5,0.0008143322,0.8
-cpd00030,0.001,-100,100,Mn2+,yeast extract,,,,7.5,,0.5
-cpd00033,0.001,-100,100,Glycine,tryptone,,75.0,0.75,15.0,,5.0
-cpd00034,0.001,-100,100,Zn2+,yeast extract,,,,7.5,,0.5
-cpd00035,0.001,-100,100,L-Alanine,tryptone,,89.0,0.75,15.0,,5.0
-cpd00039,0.001,-100,100,L-Lysine,tryptone,,147.0,0.75,15.0,,5.0
-cpd00041,0.001,-100,100,L-Aspartate,tryptone,,132.0,0.75,15.0,,5.0
-cpd00046,0.001,-100,100,CMP,yeast extract,,322.0,,7.5,,0.5
-cpd00048,0.001,-100,100,Sulfate,mineral,,,,,,5.0
-cpd00051,0.001,-100,100,L-Arginine,tryptone,,175.0,0.75,15.0,,5.0
-cpd00054,0.001,-100,100,L-Serine,tryptone,,105.0,0.75,15.0,,5.0
-cpd00058,0.001,-100,100,Cu2+,yeast extract,,,,7.5,,0.5
-cpd00060,0.001,-100,100,L-Methionine,tryptone,,149.0,0.75,15.0,,5.0
-cpd00063,0.001,-100,100,Ca2+,mineral,,,,,,5.0
-cpd00065,0.001,-100,100,L-Tryptophan,tryptone,,204.0,0.75,15.0,,5.0
-cpd00066,0.001,-100,100,L-Phenylalanine,tryptone,,165.0,0.75,15.0,,5.0
-cpd00067,0.001,-100,100,H+,water,,,,,,5.0
-cpd00069,0.001,-100,100,L-Tyrosine,tryptone,,181.0,0.75,15.0,,5.0
-cpd00084,0.001,-100,100,L-Cysteine,"tryptone, cysteine",,121.0,1.1,15.0,,5.0
-cpd00091,0.001,-100,100,UMP,yeast extract,,323.0,,7.5,,0.5
-cpd00092,0.001,-100,100,Uracil,yeast extract,,112.0,,7.5,,0.5
-cpd00099,0.001,-100,100,Cl-,mineral,,,,,,5.0
-cpd00107,0.001,-100,100,L-Leucine,tryptone,,131.0,0.75,15.0,,5.0
-cpd00119,0.001,-100,100,L-Histidine,tryptone,,155.0,0.75,15.0,,5.0
-cpd00126,0.001,-100,100,GMP,yeast extract,,362.0,,7.5,,0.5
-cpd00129,0.001,-100,100,L-Proline,tryptone,,114.0,0.75,15.0,,5.0
-cpd00149,0.001,-100,100,Co2+,atmosphere,,,,,,1000.0
-cpd00156,0.001,-100,100,L-Valine,tryptone,,117.0,0.75,15.0,,5.0
-cpd00161,0.001,-100,100,L-Threonine,tryptone,,119.0,0.75,15.0,,5.0
-cpd00182,0.001,-100,100,Adenosine,yeast extract,,267.0,,7.5,,0.5
-cpd00184,0.001,-100,100,Thymidine,yeast extract,,242.0,,7.5,,0.5
-cpd00205,0.001,-100,100,K+,mineral,,,,,,5.0
-cpd00215,0.001,-100,100,Pyridoxal,yeast extract,,167.0,,7.5,,0.5
-cpd00218,0.001,-100,100,Niacin,yeast extract,,122.0,,7.5,,0.5
-cpd00219,0.001,-100,100,Prephenate,yeast extract,,224.0,,7.5,,0.5
-cpd00220,0.001,-100,100,Riboflavin,yeast extract,,376.0,,7.5,,0.5
-cpd00226,0.001,-100,100,HYXN,yeast extract,,136.0,,7.5,,0.5
-cpd00239,0.001,-100,100,H2S,yeast extract,,,,7.5,,0.5
-cpd00246,0.001,-100,100,Inosine,yeast extract,,268.0,,7.5,,0.5
-cpd00249,0.001,-100,100,Uridine,yeast extract,,244.0,,7.5,,0.5
-cpd00254,0.001,-100,100,Mg,mineral,,,,,,5.0
-cpd00311,0.001,-100,100,Guanosine,yeast extract,,283.0,,7.5,,0.5
-cpd00322,0.001,-100,100,L-Isoleucine,tryptone,,131.0,0.75,15.0,,5.0
-cpd00381,0.001,-100,100,L-Cystine,tryptone,,240.0,0.75,15.0,,5.0
-cpd00383,0.001,-100,100,Shikimate,yeast extract,,173.0,,7.5,,0.5
-cpd00393,0.001,-100,100,Folate,yeast extract,,439.0,,7.5,,0.5
-cpd00438,0.001,-100,100,Deoxyadenosine,yeast extract,,251.0,,7.5,,0.5
-cpd00531,0.001,-100,100,Hg2+,yeast extract,,,,7.5,,0.5
-cpd00541,0.001,-100,100,Lipoate,yeast extract,,205.0,,7.5,,0.5
-cpd00644,0.001,-100,100,PAN,yeast extract,,218.0,,7.5,,0.5
-cpd00654,0.001,-100,100,Deoxycytidine,yeast extract,,227.0,,7.5,,0.5
-cpd00793,0.001,-100,100,Thiamine Phosphate,yeast extract,,344.0,,7.5,,0.5
-cpd00971,0.001,-100,100,Na+,mineral,,,,,,5.0
-cpd01012,0.001,-100,100,Cd2+,yeast extract,,,,7.5,,0.5
-cpd01048,0.001,-100,100,Arsenate,yeast extract,,140.0,,7.5,,0.5
-cpd03424,0.001,-100,100,Vitamin B12,yeast extract,,1315.0,,7.5,,0.5
-cpd10515,0.001,-100,100,Fe2+,yeast extract,,,,7.5,,0.5
-cpd10516,0.001,-100,100,Fe3+,yeast extract,,,,7.5,,0.5
-cpd11595,0.001,-100,100,chromate,yeast extract,,,,7.5,,0.5
-cpd00208,0.001,-100,100,LACT,lactose,,342.0,5.0,,0.014619883,14.6
-cpd01401,0.001,-100,100,Vitamin K1,vitamin k,,450.0,0.0007379999999999999,,1.64e-06,0.5
-cpd13391,0.001,-100,100,Tween 20,Tween 20,,522.0,1.0,,0.0019157088,1.9
-cpd15560,0.001,-100,100,Ubiquinone-8,yeast extract,,726.0,,7.5,,0.5
-cpd00305,0.001,-100,100,Thiamin,yeast extract,,265.0,,7.5,,0.5
-cpd00557,0.001,-100,100,Siroheme,yeast extract,,908.0,,7.5,,0.5
-cpd00132,0.001,-100,100,L-Asparagine,tryptone,,132.0,0.75,15.0,0.005681818199999999,5.0
-cpd00053,0.001,-100,100,L-Glutamine,tryptone,,146.0,0.75,15.0,,5.0
-cpd00029,0.001,-100,100,cpd00029,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00098,0.001,-100,100,cpd00098,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00363,0.001,-100,100,cpd00363,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00581,0.001,-100,100,cpd00581,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00133,0.001,-100,100,cpd00133,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00106,0.001,-100,100,cpd00106,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00047,0.001,-100,100,cpd00047,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd05178,0.001,-100,100,cpd05178,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00159,0.001,-100,100,cpd00159,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
-cpd00540,0.001,-100,100,cpd00540,metabolomics,consumed from fresh media according to metabolomics,0.0,0.0,0.0,0.0,0.5
+cpd00001,0.001,-100,100,H2O,water,,,,,inf,1000
+cpd00009,0.001,-100,100,Phosphate,mineral,,,,,,5
+cpd00018,0.001,-100,100,AMP,yeast extract,,346,,7.5,,0.1
+cpd00023,0.001,-100,100,L-Glutamate,tryptone,,146,0.75,15,109.5,5
+cpd00027,0.001,-100,100,D-Glucose,yeast extract,"Glucose was not supplemented, assume trace from yeast extract",180,,7.5,,0.1
+cpd00028,0.001,-100,100,Heme,hemin,Hemin is just heme with a Cl- bound to the Fe core of heme.,614,0.5,0.5,0.0008143322,0.8
+cpd00030,0.001,-100,100,Mn2+,yeast extract,,,,7.5,,0.1
+cpd00033,0.001,-100,100,Glycine,tryptone,,75,0.75,15,0.2,5
+cpd00034,0.001,-100,100,Zn2+,yeast extract,,,,7.5,,0.1
+cpd00035,0.001,-100,100,L-Alanine,tryptone,,89,0.75,15,,5
+cpd00039,0.001,-100,100,L-Lysine,tryptone,,147,0.75,15,,5
+cpd00041,0.001,-100,100,L-Aspartate,tryptone,,132,0.75,15,,5
+cpd00046,0.001,-100,100,CMP,yeast extract,,322,,7.5,,0.1
+cpd00048,0.001,-100,100,Sulfate,mineral,,,,,,5
+cpd00051,0.001,-100,100,L-Arginine,tryptone,,175,0.75,15,,5
+cpd00054,0.001,-100,100,L-Serine,tryptone,,105,0.75,15,,5
+cpd00058,0.001,-100,100,Cu2+,yeast extract,,,,7.5,,0.1
+cpd00060,0.001,-100,100,L-Methionine,tryptone,,149,0.75,15,,5
+cpd00063,0.001,-100,100,Ca2+,mineral,,,,,,5
+cpd00065,0.001,-100,100,L-Tryptophan,tryptone,,204,0.75,15,,5
+cpd00066,0.001,-100,100,L-Phenylalanine,tryptone,,165,0.75,15,,5
+cpd00067,0.001,-100,100,H+,water,,,,,,5
+cpd00069,0.001,-100,100,L-Tyrosine,tryptone,,181,0.75,15,,5
+cpd00084,0.001,-100,100,L-Cysteine,"tryptone, cysteine",,121,1.1,15,,5
+cpd00091,0.001,-100,100,UMP,yeast extract,,323,,7.5,,0.1
+cpd00092,0.001,-100,100,Uracil,yeast extract,,112,,7.5,,0.1
+cpd00099,0.001,-100,100,Cl-,mineral,,,,,,5
+cpd00107,0.001,-100,100,L-Leucine,tryptone,,131,0.75,15,,5
+cpd00119,0.001,-100,100,L-Histidine,tryptone,,155,0.75,15,,5
+cpd00126,0.001,-100,100,GMP,yeast extract,,362,,7.5,,0.1
+cpd00129,0.001,-100,100,L-Proline,tryptone,,114,0.75,15,,5
+cpd00149,0.001,-100,100,Co2+,atmosphere,,,,,,1000
+cpd00156,0.001,-100,100,L-Valine,tryptone,,117,0.75,15,,5
+cpd00161,0.001,-100,100,L-Threonine,tryptone,,119,0.75,15,,5
+cpd00182,0.001,-100,100,Adenosine,yeast extract,,267,,7.5,,0.1
+cpd00184,0.001,-100,100,Thymidine,yeast extract,,242,,7.5,,0.1
+cpd00205,0.001,-100,100,K+,mineral,,,,,,5
+cpd00215,0.001,-100,100,Pyridoxal,yeast extract,,167,,7.5,,0.1
+cpd00218,0.001,-100,100,Niacin,yeast extract,,122,,7.5,,0.1
+cpd00219,0.001,-100,100,Prephenate,yeast extract,,224,,7.5,,0.1
+cpd00220,0.001,-100,100,Riboflavin,yeast extract,,376,,7.5,,0.1
+cpd00226,0.001,-100,100,HYXN,yeast extract,,136,,7.5,,0.1
+cpd00239,0.001,-100,100,H2S,yeast extract,,,,7.5,,0.1
+cpd00246,0.001,-100,100,Inosine,yeast extract,,268,,7.5,,0.1
+cpd00249,0.001,-100,100,Uridine,yeast extract,,244,,7.5,,0.1
+cpd00254,0.001,-100,100,Mg,mineral,,,,,,5
+cpd00311,0.001,-100,100,Guanosine,yeast extract,,283,,7.5,,0.1
+cpd00322,0.001,-100,100,L-Isoleucine,tryptone,,131,0.75,15,,5
+cpd00381,0.001,-100,100,L-Cystine,tryptone,,240,0.75,15,,5
+cpd00383,0.001,-100,100,Shikimate,yeast extract,,173,,7.5,,0.1
+cpd00393,0.001,-100,100,Folate,yeast extract,,439,,7.5,,0.1
+cpd00438,0.001,-100,100,Deoxyadenosine,yeast extract,,251,,7.5,,0.1
+cpd00531,0.001,-100,100,Hg2+,yeast extract,,,,7.5,,0.1
+cpd00541,0.001,-100,100,Lipoate,yeast extract,,205,,7.5,,0.1
+cpd00644,0.001,-100,100,PAN,yeast extract,,218,,7.5,,0.1
+cpd00654,0.001,-100,100,Deoxycytidine,yeast extract,,227,,7.5,,0.1
+cpd00793,0.001,-100,100,Thiamine Phosphate,yeast extract,,344,,7.5,,0.1
+cpd00971,0.001,-100,100,Na+,mineral,,,,,,5
+cpd01012,0.001,-100,100,Cd2+,yeast extract,,,,7.5,,0.1
+cpd01048,0.001,-100,100,Arsenate,yeast extract,,140,,7.5,,0.1
+cpd03424,0.001,-100,100,Vitamin B12,yeast extract,,1315,,7.5,,0.1
+cpd10515,0.001,-100,100,Fe2+,yeast extract,,,,7.5,,0.1
+cpd10516,0.001,-100,100,Fe3+,yeast extract,,,,7.5,,0.1
+cpd11595,0.001,-100,100,chromate,yeast extract,,,,7.5,,0.1
+cpd00208,0.001,-100,100,LACT,lactose,,342,0.075,,0.0002192982,0.2192982456
+cpd01401,0.001,-100,100,Vitamin K1,vitamin k,,450,0.000738,,0.00000164,0.5
+cpd13391,0.001,-100,100,Tween 20,Tween 20,,522,1,,0.0019157088,1.9
+cpd15560,0.001,-100,100,Ubiquinone-8,yeast extract,,726,,7.5,,0.1
+cpd00305,0.001,-100,100,Thiamin,yeast extract,,265,,7.5,,0.1
+cpd00557,0.001,-100,100,Siroheme,yeast extract,,908,,7.5,,0.1
+cpd00132,0.001,-100,100,L-Asparagine,tryptone,,132,0.75,15,0.0056818182,5
+cpd00053,0.001,-100,100,L-Glutamine,tryptone,,146,0.75,15,,5
+cpd00029,0.001,-100,100,cpd00029,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00098,0.001,-100,100,cpd00098,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00363,0.001,-100,100,cpd00363,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00581,0.001,-100,100,cpd00581,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00133,0.001,-100,100,cpd00133,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00106,0.001,-100,100,cpd00106,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00047,0.001,-100,100,cpd00047,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd05178,0.001,-100,100,cpd05178,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00159,0.001,-100,100,cpd00159,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
+cpd00540,0.001,-100,100,cpd00540,metabolomics,consumed from fresh media according to metabolomics,0,0,0,0,0.1
